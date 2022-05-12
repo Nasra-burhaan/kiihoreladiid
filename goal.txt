@@ -1,0 +1,4 @@
+we are team who have a long term goal!!
+we start the first step to achieve our goal!!
+today is the first day of our meeting to share what we learn the past week!!
+printf("it is encouraging");
